@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+    <reporter-output>
+    </reporter-output>
+    <suite name="Default suite" duration-ms="15992" started-at="2020-09-13T21:55:22 EDT"
+           finished-at="2020-09-13T21:55:38 EDT">
+        <groups>
+        </groups>
+        <test name="Default test" duration-ms="15992" started-at="2020-09-13T21:55:22 EDT"
+              finished-at="2020-09-13T21:55:38 EDT">
+            <class name="com.frt.hotels.com.tests.HomePageTest">
+                <test-method status="PASS"
+                             signature="setUp()[pri:0, instance:com.frt.hotels.com.tests.HomePageTest@62fdb4a6]"
+                             name="setUp" is-config="true" duration-ms="6446" started-at="2020-09-13T21:55:22 EDT"
+                             finished-at="2020-09-13T21:55:28 EDT">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- setUp -->
+                <test-method status="PASS"
+                             signature="verifyPageTitle()[pri:1, instance:com.frt.hotels.com.tests.HomePageTest@62fdb4a6]"
+                             name="verifyPageTitle" duration-ms="22" started-at="2020-09-13T21:55:28 EDT"
+                             finished-at="2020-09-13T21:55:28 EDT">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- verifyPageTitle -->
+                <test-method status="PASS"
+                             signature="destinationSelect()[pri:2, instance:com.frt.hotels.com.tests.HomePageTest@62fdb4a6]"
+                             name="destinationSelect" duration-ms="2586" started-at="2020-09-13T21:55:28 EDT"
+                             finished-at="2020-09-13T21:55:31 EDT">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- destinationSelect -->
+                <test-method status="PASS"
+                             signature="selectDates()[pri:3, instance:com.frt.hotels.com.tests.HomePageTest@62fdb4a6]"
+                             name="selectDates" duration-ms="4326" started-at="2020-09-13T21:55:31 EDT"
+                             finished-at="2020-09-13T21:55:35 EDT">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- selectDates -->
+                <test-method status="PASS"
+                             signature="adultSelect()[pri:4, instance:com.frt.hotels.com.tests.HomePageTest@62fdb4a6]"
+                             name="adultSelect" duration-ms="67" started-at="2020-09-13T21:55:35 EDT"
+                             finished-at="2020-09-13T21:55:35 EDT">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- adultSelect -->
+                <test-method status="PASS"
+                             signature="childrenSelect()[pri:5, instance:com.frt.hotels.com.tests.HomePageTest@62fdb4a6]"
+                             name="childrenSelect" duration-ms="2489" started-at="2020-09-13T21:55:35 EDT"
+                             finished-at="2020-09-13T21:55:38 EDT">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- childrenSelect -->
+            </class> <!-- com.frt.hotels.com.tests.HomePageTest -->
+        </test> <!-- Default test -->
+    </suite> <!-- Default suite -->
+</testng-results>
